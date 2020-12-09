@@ -20,7 +20,7 @@ Currently, I'm leaning python and c languages.Cause they are necessary basic lan
 [<img align="left" alt="Talha Ramadan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Talha Ramadan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br>
 
 ### Languages and Tools:
 
@@ -28,7 +28,7 @@ Currently, I'm leaning python and c languages.Cause they are necessary basic lan
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 
-<br />
+<br>
 
 [instagram]: https://instagram.com/talha___ra
 [linkedin]: https://linkedin.com/in/talha-ramadan-17910b1ba/
