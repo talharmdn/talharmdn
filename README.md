@@ -16,7 +16,7 @@ Currently, I'm leaning python and c languages.Cause they are necessary basic lan
 
 ### Contact with me:
 
-<a href="mailto:talharamadan02@gmail.com"><img align="left" alt="Talha Ramadan | Gmail" width="22px" src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" /></a>
+<a href="mailto:talharamadan02@gmail.com"><img align="left" alt="Talha Ramadan | Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/60/60543.png" /></a>
 [<img align="left" alt="Talha Ramadan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Talha Ramadan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
