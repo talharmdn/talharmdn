@@ -28,6 +28,9 @@ Currently, I'm leaning python and c languages.Cause they are necessary basic lan
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_Mobile_icon.svg/1200px-Adobe_Photoshop_Mobile_icon.svg.png" />
+<img align="left" alt="Lightroom" width="26px" src="https://img.pngio.com/fileadobe-photoshop-lightroom-cc-logosvg-wikimedia-commons-adobe-lightroom-png-788_768.png" />
+
+
 
 <br>
 
