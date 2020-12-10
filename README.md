@@ -1,7 +1,7 @@
 <h3 align="left"> Hi there, I'm Talha 👋</h3>
 <h4 align="left">An amateur Website Coder from Greece</h4>
 
-## About Me
+## About Me 📝
 <br> Hi, I'm Talha Ramadan, a Website Coder. I am studying at the Bursa Technical University.</br>
 Currently, I'm leaning python and c languages.Cause they are necessary basic languages for</br>
  the coding 😅.I want to work in a company after university.
