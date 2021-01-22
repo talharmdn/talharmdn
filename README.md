@@ -12,7 +12,7 @@ Currently, I'm leaning python and c languages.Cause they are necessary basic lan
 - 👨🏻‍🎨 Photograpy Editing/Photshop
 - 🌱 I like to learning everything 🤣
 - 🥅 2021 Goal: Improve myself more than last year
-- 🎼 I love to play percussions and also I am  DJ
+- 🎼 I love to play percussions instruments and also I am  DJ
 
 ### Contact with me:
 
