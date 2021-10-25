@@ -11,7 +11,6 @@ Currently, I'm leaning python and c languages.Cause they are necessary basic lan
 - 👨‍💻 Website Coding
 - 👨🏻‍🎨 Photograpy Editing/Photshop
 - 🌱 I like to learning everything 🤣
-- 🥅 2021 Goal: Improve myself more than last year
 
 ### Contact with me:
 
