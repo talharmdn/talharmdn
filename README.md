@@ -10,7 +10,7 @@ Currently, I'm leaning python and c languages.Cause they are necessary basic lan
 
 - 👨‍💻 Website Coding
 - 👨🏻‍🎨 Photograpy Editing/Photshop
-- 🌱 I like to learning everything 🤣
+- 🌱 I like to learn everything 🤣
 
 ### Contact with me:
 
