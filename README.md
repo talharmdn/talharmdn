@@ -27,8 +27,6 @@ Currently, I'm leaning python and c languages.Cause they are necessary basic lan
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_Mobile_icon.svg/1200px-Adobe_Photoshop_Mobile_icon.svg.png" />
-<img align="left" alt="Lightroom" width="26px" src="https://img.pngio.com/fileadobe-photoshop-lightroom-cc-logosvg-wikimedia-commons-adobe-lightroom-png-788_768.png" />
 
 
 <br>
