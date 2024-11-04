@@ -3,8 +3,8 @@
 
 ## About Me 📝
 <br> Hi, I'm Talha Ramadan, a Website Coder. I am studying at the Bursa Technical University.</br>
-Currently, I'm leaning python and c languages.Cause they are necessary basic languages for</br>
- the coding 😅.I want to work in a company after university.
+ Currently, I'm leaning python and c languages.Cause they are necessary basic languages for</br>
+ the coding 😅. I want to work in a company after university.
 
 ## Some of my interests !!
 
@@ -14,7 +14,7 @@ Currently, I'm leaning python and c languages.Cause they are necessary basic lan
 
 ### Contact with me:
 
-<a href="mailto:talharamadan02@gmail.com"><img align="left" alt="Talha Ramadan | Gmail" width="22px" src="https://icon-library.com/images/gmail-icon-png/gmail-icon-png-25.jpg" /></a>
+<a href="mailto:talharamadan02@gmail.com"><img align="left" alt="Talha Ramadan | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /></a>
 [<img align="left" alt="Talha Ramadan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Talha Ramadan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
